@@ -1,0 +1,4 @@
+repository "ISL@Brofistansh@cloud"
+  path "/"
+    br "/main"
+    co "/main"

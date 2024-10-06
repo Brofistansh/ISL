@@ -1,0 +1,13 @@
+assets/bin/Data/boot.config:289-638635787688324180
+assets/bin/Data/data.unity3d:2598268-638635790690056780
+assets/bin/Data/Managed/Metadata/global-metadata.dat:2098136-638634858481231180
+assets/bin/Data/Managed/Resources/mscorlib.dll-resources.dat:337563-638634858481277100
+assets/bin/Data/RuntimeInitializeOnLoads.json:2344-638634857745217490
+assets/bin/Data/ScriptingAssemblies.json:2898-638635790690055000
+assets/bin/Data/unity default resources:4222168-638634857745151500
+assets/bin/Data/unity_app_guid:36-638635790719824635
+assets/bin/Data/UnitySubsystems/UnityARCore/UnitySubsystemsManifest.json:147-638634857745214950
+jniLibs/arm64-v8a/libil2cpp.so:12155544-638634858526329510
+jniLibs/arm64-v8a/libmain.so:13312-638634857745204260
+jniLibs/armeabi-v7a/libil2cpp.so:10602400-638634858538206910
+jniLibs/armeabi-v7a/libmain.so:31712-638634857745202220
